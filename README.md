@@ -8,7 +8,12 @@ Libraries: Mongoose (MongoDB) , Express (Node) , React, Material UI, Axios
 
 User is able to view, add new books and edit existing books.
 
-Screenshots:
+# To Run
+
+To run this app, go to server folder and in cmd type npm i and go to client folder and in cmd type npm i.
+
+# Screenshots:
+
 View page:
 ![image](https://user-images.githubusercontent.com/22520440/171184175-fc415af8-b335-4f8c-8302-3f3c6959c175.png)
 
